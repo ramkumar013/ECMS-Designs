@@ -3,7 +3,7 @@ body {
 	padding:0px;
 	margin:0px;
 	background-color:#fff;
-	background-image: url(images/mainbg.jpg);
+	background-image: url(../img/mainbg.jpg);
 	background-repeat: repeat-y;
 	background-position: center center;
 	}
@@ -153,7 +153,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	padding: 0px;
-	background-image: url(images/menubg.jpg);
+	background-image: url(../img/menubg.jpg);
 	background-repeat: repeat-x;
 	height: 46px;
 	margin-bottom: 15px;
@@ -253,7 +253,7 @@ body {
 	font-weight: normal;
 	color: #002752;
 	text-decoration: none;
-	background-image: url(images/activebg.png);
+	background-image: url(../img/activebg.png);
 	background-repeat: no-repeat;
 	width: 101px;
 	float: left;
@@ -297,7 +297,7 @@ body {
 	float: left;
 	height: 346px;
 	width: 609px;
-	background-image: url(images/trip-bg.png);
+	background-image: url(../img/trip-bg.png);
 	background-repeat: no-repeat;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -387,7 +387,7 @@ body {
 	padding-left:2px;
 }
 .field-bg{
-	background-image: url(images/field1.png);
+	background-image: url(../img/field1.png);
 	background-repeat: no-repeat;
 	background-position:0px 3px;
 	margin: 0px;
@@ -446,7 +446,7 @@ body {
 
 }
 .field2-bg{
-	background-image: url(images/field2.png);
+	background-image: url(../img/field2.png);
 	background-position:0px 3px;
 	background-repeat: no-repeat;
 	margin: 0px;
@@ -496,7 +496,7 @@ body {
 	padding-left:2px;
 }
 .field3-bg{
-	background-image: url(images/field3.png);
+	background-image: url(../img/field3.png);
 	background-repeat: no-repeat;
 	float: left;
 	width: 80px;
@@ -1021,7 +1021,7 @@ body {
 	padding-bottom: 0px;
 	padding-left: 25px;
 	width: 125px;
-	background-image: url(images/bottom-bg.png);
+	background-image: url(/1/img/bottom-bg.png);
 	background-repeat: repeat-x;
 }
 #bottom-sec1 h1{
@@ -1081,7 +1081,7 @@ body {
 	padding-bottom: 0px;
 	padding-left: 15px;
 	width: 195px;
-	background-image: url(images/bottom-bg.png);
+	background-image: url(/1/img/bottom-bg.png);
 	background-repeat: repeat-x;
 }
 #bottom-sec2 h1{
@@ -1143,7 +1143,7 @@ body {
 	padding-bottom: 0px;
 	padding-left: 15px;
 	width: 290px;
-	background-image: url(images/bottom-bg.png);
+	background-image: url(/1/img/bottom-bg.png);
 	background-repeat: repeat-x;
 }
 #bottom-sec3 h1{
@@ -1206,7 +1206,7 @@ body {
 	padding-bottom: 0px;
 	padding-left: 15px;
 	width: 240px;
-	background-image: url(images/bottom-bg.png);
+	background-image: url(/1/img/bottom-bg.png);
 	background-repeat: repeat-x;
 }
 #bottom-sec4 h1{
@@ -1271,7 +1271,7 @@ body {
 	float: left;
 }
 #footer{
-	background-image: url(images/footer-bg.jpg);
+	background-image: url(/1/img/footer-bg.jpg);
 	background-repeat: repeat-x;
 	padding: 0px;
 	float: left;
@@ -1614,7 +1614,7 @@ body {
 	padding-top: 20px;
 	padding-right: 0px;
 	padding-left: 20px;
-	background-image: url(images/flight-deals-bg.jpg);
+	background-image: url(img/flight-deals-bg.jpg);
 	background-repeat: repeat-x;
 }
 #flight-withbg h1{
@@ -1660,7 +1660,7 @@ body {
 	padding-top: 20px;
 	padding-right: 0px;
 	padding-left: 20px;
-	background-image: url(images/flight-deals-bg.jpg);
+	background-image: url(img/flight-deals-bg.jpg);
 	background-repeat: repeat-x;
 }
 #flight-withbg2 h1{
@@ -1717,7 +1717,7 @@ body {
 	padding-top: 20px;
 	padding-right: 0px;
 	padding-left: 20px;
-	background-image: url(images/destin-bg.jpg);
+	background-image: url(img/destin-bg.jpg);
 	background-repeat: repeat-x;
 }
 #flight-withbg3 h1{
@@ -1768,7 +1768,7 @@ body {
 	line-height: 0px;
 }
 #top-deals{
-	background-image: url(images/deals-bg.jpg);
+	background-image: url(img/deals-bg.jpg);
 	background-repeat: no-repeat;
 	margin: 0px;
 	margin-top:3px;
@@ -1863,7 +1863,7 @@ body {
 }
 #search-deal{
 	float: left;
-	background-image: url(images/search-deals.png);
+	background-image: url(img/search-deals.png);
 	height: 54px;
 	width: 628px;
 	padding-top: 14px;
@@ -1945,7 +1945,7 @@ body {
 	line-height: 21px;
 }
 #travel-resource{
-	background-image: url(images/travel-resource-bg.png);
+	background-image: url(img/travel-resource-bg.png);
 	background-repeat: repeat-x;
 	float: left;
 	width: 660px;
@@ -2104,7 +2104,7 @@ body {
 	-webkit-border-radius:  5px 5px 5px 5px;
 	border:1px solid #e3e3e3;
 	background-color: #eeeeee;
-	background-image: url(images/mailbox-bg.jpg);
+	background-image: url(img/mailbox-bg.jpg);
 	background-repeat: repeat-x;
 	margin: 0px;
 	float: left;
@@ -2157,11 +2157,11 @@ body {
 }
 @font-face {
     font-family: 'open_sansregular';
-    src: url('fonts/opensans-regular-webfont.eot');
-    src: url('fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/opensans-regular-webfont.woff') format('woff'),
-         url('fonts/opensans-regular-webfont.ttf') format('truetype'),
-         url('fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    src: url('../fonts/opensans-regular-webfont.eot');
+    src: url('../fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-regular-webfont.woff') format('woff'),
+         url('../fonts/opensans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -2172,11 +2172,11 @@ body {
 
 @font-face {
     font-family: 'open_sansbold';
-    src: url('fonts/opensans-bold-webfont.eot');
-    src: url('fonts/opensans-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/opensans-bold-webfont.woff') format('woff'),
-         url('fonts/opensans-bold-webfont.ttf') format('truetype'),
-         url('fonts/opensans-bold-webfont.svg#open_sansbold') format('svg');
+    src: url('../fonts/opensans-bold-webfont.eot');
+    src: url('../fonts/opensans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-bold-webfont.woff') format('woff'),
+         url('../fonts/opensans-bold-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-bold-webfont.svg#open_sansbold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -2187,11 +2187,11 @@ body {
 
 @font-face {
     font-family: 'open_sansbold_italic';
-    src: url('fonts/opensans-bolditalic-webfont.eot');
-    src: url('fonts/opensans-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/opensans-bolditalic-webfont.woff') format('woff'),
-         url('fonts/opensans-bolditalic-webfont.ttf') format('truetype'),
-         url('fonts/opensans-bolditalic-webfont.svg#open_sansbold_italic') format('svg');
+    src: url('../fonts/opensans-bolditalic-webfont.eot');
+    src: url('../fonts/opensans-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-bolditalic-webfont.woff') format('woff'),
+         url('../fonts/opensans-bolditalic-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-bolditalic-webfont.svg#open_sansbold_italic') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -2202,11 +2202,11 @@ body {
 
 @font-face {
     font-family: 'open_sansextrabold';
-    src: url('opensans-extrabold-webfont.eot');
-    src: url('opensans-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('opensans-extrabold-webfont.woff') format('woff'),
-         url('opensans-extrabold-webfont.ttf') format('truetype'),
-         url('opensans-extrabold-webfont.svg#open_sansextrabold') format('svg');
+    src: url('../fonts/opensans-extrabold-webfont.eot');
+    src: url('../fonts/opensans-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-extrabold-webfont.woff') format('woff'),
+         url('../fonts/opensans-extrabold-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-extrabold-webfont.svg#open_sansextrabold') format('svg');
     font-weight: normal;
     font-style: normal;
 
